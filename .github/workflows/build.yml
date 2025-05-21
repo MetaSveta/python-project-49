@@ -18,4 +18,9 @@ jobs:
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           INPUT_PROJECTBASEDIR: python-project-49
+        with:
+          args: >
+            -Dsonar.projectKey=MetaSveta_python-project-49
+            -Dsonar.organization=meta-5sveta
+            -Dsonar.sources=.
 
