@@ -1,5 +1,7 @@
 import random
+
 import prompt
+
 from brain_games.cli import welcome_user
 
 
@@ -17,7 +19,10 @@ def play():
         print("Correct!")
         return True
     else:
-        print(f"'{users_answer}' is wrong answer ;(. Correct answer was '{answer}'.")
+        print(
+            f"'{users_answer}' is wrong answer ;(. "
+            f"Correct answer was '{answer}'."
+        )
         return False
 
 
