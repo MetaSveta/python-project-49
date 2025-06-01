@@ -3,3 +3,6 @@
 
 ### Maintainbility status:
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MetaSveta_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=MetaSveta_python-project-49)
+
+### Demonstration of the "Even Number Check" game:
+[![asciicast](https://asciinema.org/a/1WnlhIjKc2ppv7qfX1UDaTipk.svg)](https://asciinema.org/a/1WnlhIjKc2ppv7qfX1UDaTipk)
