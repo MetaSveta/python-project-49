@@ -1,9 +1,25 @@
-*.egg-info
-__pycache__
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+*.egg-info/
 dist/
-*.pyc
-.venv
+
+# macOS system files
+.DS_Store
+
+# Virtual environment
+.venv/
+
+# Test coverage
 .coverage
 coverage.xml
+
+# Tool caches
 *_cache/
-.DS_Store
+.ruff_cache/
+
+# Pyenv local version
+.python-version
+
