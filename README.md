@@ -6,3 +6,6 @@
 
 ### Demonstration of the "Even Number Check" game:
 [![asciicast](https://asciinema.org/a/qs8E4ABu0zSP9RGghPwhuL7GP.svg)](https://asciinema.org/a/qs8E4ABu0zSP9RGghPwhuL7GP)
+
+### Demonstration of the "Calculator" game:
+[![asciicast](https://asciinema.org/a/yNvRz02EV9nIdcZX1v346qmpC.svg)](https://asciinema.org/a/yNvRz02EV9nIdcZX1v346qmpC)
