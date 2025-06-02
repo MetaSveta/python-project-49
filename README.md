@@ -12,3 +12,6 @@
 
 ### Demonstration of the "Greatest common divisor" game:
 [![asciicast](https://asciinema.org/a/xeTY4ayy3YNz3Xeu8KOVx2PtP.svg)](https://asciinema.org/a/xeTY4ayy3YNz3Xeu8KOVx2PtP)
+
+### Demonstration of the "Arithmetic progression" game:
+[![asciicast](https://asciinema.org/a/1NsRbL1zNiWGUZZgNmrwOax09.svg)](https://asciinema.org/a/1NsRbL1zNiWGUZZgNmrwOax09)
