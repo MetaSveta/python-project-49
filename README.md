@@ -15,3 +15,7 @@
 
 ### Demonstration of the "Arithmetic progression" game:
 [![asciicast](https://asciinema.org/a/1NsRbL1zNiWGUZZgNmrwOax09.svg)](https://asciinema.org/a/1NsRbL1zNiWGUZZgNmrwOax09)
+
+### Demonstration of the "Is it a prime number?" game:
+[![asciicast](https://asciinema.org/a/bKi2JJZMAyIrTuAxAS5aSjvOA.svg)](https://asciinema.org/a/bKi2JJZMAyIrTuAxAS5aSjvOA)
+
