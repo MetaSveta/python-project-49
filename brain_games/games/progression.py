@@ -14,7 +14,7 @@ def generate_progression(start, step, length):
     return [start + i * step for i in range(length)]
 
 
-def generate_round():
+def get_question_and_correct_answer():
     length = random.randint(PROGRESSION_MIN_LENGTH, PROGRESSION_MAX_LENGTH)
     step = random.randint(STEP_MIN, STEP_MAX)
     start = random.randint(START_MIN, START_MAX)

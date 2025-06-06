@@ -10,7 +10,7 @@ OPERATIONS = {
 }
 
 
-def generate_round():
+def get_question_and_correct_answer():
     num1 = random.randint(1, 20)
     num2 = random.randint(1, 20)
     op = random.choice(list(OPERATIONS.keys()))

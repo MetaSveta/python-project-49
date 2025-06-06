@@ -10,7 +10,7 @@ def run_game(game):
     print(game.RULE)
 
     for _ in range(ROUNDS_COUNT):
-        question, correct_answer = game.generate_round()
+        question, correct_answer = game.get_question_and_correct_answer()
         print(f"Question: {question}")
         user_answer = prompt.string("Your answer: ").strip()
 
